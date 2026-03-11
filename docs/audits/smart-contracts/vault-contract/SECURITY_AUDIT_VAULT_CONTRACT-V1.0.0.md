@@ -3,7 +3,7 @@
 **Date:** March 2025  
 **Contract:** `vault-contract`  
 **Scope:** Audit report.
-**Autor:** [@Villarley](https://github.com/Villarley)
+**Author:** [@Villarley](https://github.com/Villarley)
 
 ---
 
